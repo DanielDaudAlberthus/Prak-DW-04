@@ -1,0 +1,211 @@
+.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: orange;
+}
+
+
+.member{
+  padding: 2px;
+  background-color: orange;
+  border: 1px solid orange;
+  border-radius: 5px;
+  text-decoration: none;
+  list-style-type: none;
+  font-size: 10px;
+  color: #333;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+.socialmedia {
+  text-decoration: none;
+  float:left;
+  list-style-type: none;
+  text-decoration-color: black;
+  background-color: none;
+  -moz-text-decoration-color: black;
+}
+
+.socialmedia a:hover{
+  background-color: unset;
+}
+
+.socialmedia a{
+  display: block;
+  color: #333;
+  text-align: center;
+  padding: 10px 8px;
+  text-decoration: none;
+}
+
+.gambar {
+  float: left;
+}
+
+.game {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: orange;
+}
+
+.button {
+  height: 30px;
+  margin: 0;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+}
+
+.close {
+  text-align: center;
+  background-color: #222;
+  font-size: 15px;
+}
+
+.f {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.f a {
+  color: #000;
+  padding: 50ps 16px;
+  text-decoration: none;
+}
+
+.f a:hover {
+  background-color: #555;
+  color: white;
+}
+
+.f2 {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.f2 a {
+  color: #000;
+  padding: 50ps 16px;
+  text-decoration: none;
+}
+
+.f2 a:hover {
+  background-color: #555;
+  color: white;
+}
+
+
+.f3 {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.f3 a {
+  color: #000;
+  padding: 50ps 16px;
+  text-decoration: none;
+}
+
+.f3 a:hover {
+  background-color: #555;
+  color: white;
+}
+
+header{
+  background-color: white;
+}
+
+#box {
+  font-family: Calibri;
+  font-size: 50px;
+  border: 0px solid black ;
+  margin: 0 auto;
+  width: 700px;
+  height: auto;
+  margin: 10px auto;
+  padding: 20px;
+}
+
+#box1 {
+  border: 0px solid black;
+  color: gray;
+  width: 700px;
+  height: auto;
+  margin: 0 auto;
+}
+
+#box2 {
+  border: 0px solid black;
+  color: gray;
+  width: 700px;
+  height: auto;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+#box3 {
+  border: 0px solid black;
+  color: gray;
+  width: 700px;
+  height: auto;
+  margin: 0 auto;
+  padding: 10px;
+  position: absolute;
+  left: 650px;
+}
+
+.box4 {
+  border: 0px solid black;
+  color: gray;
+  width: 700px;
+  height: auto;
+  margin: 0 auto;
+  padding: 10px;
+  margin-top: 40% ;
+}
+
+.gambar1 {
+  position: relative;
+  display: block;
+  margin: 0 auto;
+}
+
+.gambar2 {
+  position: static;
+  display: block;
+  margin: 0 auto;
+}
+
+.gambar3 {
+  position: absolute;
+  display: block;
+  margin: 0 auto;
+}
